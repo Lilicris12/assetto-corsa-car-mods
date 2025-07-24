@@ -1,0 +1,53 @@
+{
+  "name": "Apex Venom GT",
+  "brand": "Apex Dynamics",
+  "description": "Extreme fictional hypercar with cutting-edge aerodynamics and hybrid technology. Features active aerodynamics, torque vectoring AWD, and a twin-turbo V12 hybrid powertrain.",
+  "tags": ["street", "hypercar", "fictional", "awd"],
+  "class": "street",
+  "specs": {
+    "bhp": "1200",
+    "torque": "1100 Nm",
+    "weight": "1250 kg",
+    "topspeed": "380 km/h",
+    "acceleration": "0-100: 2.5s",
+    "pwratio": "960 bhp/tonne"
+  },
+  "torqueCurve": [
+    [1000, 650],
+    [1500, 850],
+    [2000, 950],
+    [2500, 1020],
+    [3000, 1080],
+    [3500, 1100],
+    [4000, 1100],
+    [4500, 1090],
+    [5000, 1070],
+    [5500, 1040],
+    [6000, 1000],
+    [6500, 950],
+    [7000, 890],
+    [7500, 820],
+    [8000, 740],
+    [8500, 650],
+    [9000, 550]
+  ],
+  "powerCurve": [
+    [1000, 68],
+    [1500, 135],
+    [2000, 201],
+    [2500, 275],
+    [3000, 343],
+    [3500, 405],
+    [4000, 463],
+    [4500, 516],
+    [5000, 563],
+    [5500, 604],
+    [6000, 628],
+    [6500, 650],
+    [7000, 655],
+    [7500, 647],
+    [8000, 623],
+    [8500, 580],
+    [9000, 520]
+  ]
+}
